@@ -1,1 +1,1 @@
-# Most-dominant-colors-in-an-image-using-KMeans-clustering
+# Most Dominant Colors in an Image Using KMeans Clustering
