@@ -17,31 +17,4 @@ Install the required dependencies using the following command:
 pip install numpy opencv-python scikit-learn
 ```
 
-## Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Most-Dominant-Colors.git
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd Most-Dominant-Colors
-   ```
-
-3. Run the script with the desired image and number of dominant colors:
-   ```bash
-   python dominant_colors.py --image your_image.jpg --k 3
-   ```
-
-   Adjust the `--k` parameter to specify the number of dominant colors to extract.
-
-## Example
-```bash
-python dominant_colors.py --image sample_image.jpg --k 5
-```
-
-This command will process the `sample_image.jpg` and display the top 5 dominant colors.
-
-Feel free to explore and modify the script to suit your specific needs.
-
 Happy coding! 🚀
