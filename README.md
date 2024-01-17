@@ -6,6 +6,11 @@ This repository contains a Python script that utilizes KMeans clustering to iden
 ## How it Works
 The script takes an image as input and applies the KMeans clustering algorithm to group pixels with similar colors. The centroids of these clusters represent the dominant colors in the image. The user can specify the number of dominant colors to extract.
 
+## Features
+- Utilizes the KMeans clustering algorithm for color segmentation.
+- Extracts and visualizes the most dominant colors in the input image.
+- Offers flexibility to adjust the number of dominant colors to be identified.
+  
 ## Dependencies
 - Python 3.x
 - NumPy
@@ -17,4 +22,7 @@ Install the required dependencies using the following command:
 pip install numpy opencv-python scikit-learn
 ```
 
-Happy coding! 🚀
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+Feel free to contribute, report issues, or suggest improvements. Happy coding! 🚀
