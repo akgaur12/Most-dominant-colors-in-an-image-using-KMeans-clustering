@@ -22,6 +22,9 @@ Install the required dependencies using the following command:
 pip install numpy opencv-python scikit-learn
 ```
 
+## Output Image
+<img src="https://github.com/akgaur12/Most-dominant-colors-in-an-image-using-KMeans-clustering/assets/134853842/fcc4746c-edf5-409a-a494-7effe0fe8894" alt="Project GUI1" width="45%">
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
